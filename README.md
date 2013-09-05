@@ -27,7 +27,7 @@ Is this plug-in installed?
 Press `ctrl+shift+pageup`.
 
 Unless you're on a Mac, in which case you should press `command+shift+p` and search for `Move File in Group Left`.  
-Macs are hard to find keybindings for!
+It's hard to find keybindings for Macs!
 
 
 #### The Long
@@ -40,8 +40,14 @@ The aforementioned commands this plug-in adds are:
     "command": "move_tab_left"
     "command": "move_tab_right"
 
-That's really all there is to it.  
+That's really all there is to it.
+
 Enjoy.
+
+-----
+
+**This project is open under the [MIT License][1]**
+
 
  [0]: http://www.sublimetext.com/2
  [1]: http://revolunet.mit-license.org
