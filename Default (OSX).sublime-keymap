@@ -1,0 +1,10 @@
+/* I couldn't find a good default keybind for OSX. Sorry about that. If you have
+ * a suggestion, I'd love to hear it.
+ * I tend to just use `command+shift+p` and search for _Move File in Group ..._.
+ * If you're looking to add your own keybindings, though, the below two commands
+ * lines should be about all you need,
+ *    { "keys": ["Pick Your Key!"], "command": "move_tab_left" },
+ *    { "keys": ["Any Key!"], "command": "move_tab_right" },
+ */
+[
+]

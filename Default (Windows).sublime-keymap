@@ -1,0 +1,4 @@
+[
+    { "keys": ["ctrl+shift+pageup"], "command": "move_tab_left" },
+    { "keys": ["ctrl+shift+pagedown"], "command": "move_tab_right" },
+]

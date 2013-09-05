@@ -1,0 +1,30 @@
+/* The prospect of adding menu entries above `View->Layout` -- as the below code
+ * will -- feels very fragile to me. As such, I'm not going to.
+ * I want to leave this code here in case the Sublime team updates how they
+ * order/organize the menus, or in case someone else decides this might a be
+ * worthwhile feature.
+ */
+
+/*
+[
+    {
+        "caption": "View",
+        "mnemonic": "V",
+        "id": "view",
+        "children":
+        [
+            { "caption": "-", "id": "groups"},
+            { "caption": "-" },
+            {
+                "caption": "Move File in Group",
+                "children":
+                [
+                    { "command": "move_tab_left", "caption": "Left" },
+                    { "command": "move_tab_right", "caption": "Right" }
+                ]
+            },
+            { "caption": "-"},
+        ]
+    }
+]
+*/

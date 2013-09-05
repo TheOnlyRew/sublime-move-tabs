@@ -1,0 +1,60 @@
+[
+    {
+        "caption": "Move File in Group Left",
+        "command": "move_tab_left"
+    },
+    {
+        "caption": "Move File in Group Right",
+        "command": "move_tab_right"
+    },
+
+
+    {
+        "caption": "Preferences: Move Tabs Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Move Tabs/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: Move Tabs Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Move Tabs/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: Move Tabs Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/Move Tabs/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {
+        "caption": "Preferences: Move Tabs Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: Move Tabs Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: Move Tabs Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    }
+]
